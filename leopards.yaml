@@ -2,7 +2,11 @@ team: Leopards
 
 mansger : Nora
 
+<<<<<<< HEAD
 coach: Nicholas
+=======
+coach: Melissa
+>>>>>>> decb108 (Edit Leopards coach)
 
 members:
  -Linda
